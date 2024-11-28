@@ -119,7 +119,8 @@ C:\Users\mirus\anaconda3\Lib\site-packages\sklearn\base.py:493: UserWarning: X d
 
 array([0], dtype=int64)
 
-![Screenshot 2024-11-28 222721](https://github.com/user-attachments/assets/31c76674-cd9f-4291-a150-ca1ed0cf6da7)
+![Screenshot 2024-11-28 222721](https://github.com/user-attachments/assets/777d44c3-16d1-4948-a636-60a094a36205)
+
 
 
 ## Result:
