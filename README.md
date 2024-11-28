@@ -119,9 +119,10 @@ C:\Users\mirus\anaconda3\Lib\site-packages\sklearn\base.py:493: UserWarning: X d
 
 array([0], dtype=int64)
 
-![Screenshot 2024-11-28 222721](https://github.com/user-attachments/assets/777d44c3-16d1-4948-a636-60a094a36205)
 
 
+
+![Screenshot 2024-11-28 222721](https://github.com/user-attachments/assets/fac2b869-0708-4c00-94de-18b9ff349487)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
