@@ -54,8 +54,9 @@ plt.figure(figsize=(8,6))
 plot_tree(dt, feature_names=x.columns, class_names=['salary' , 'left'],filled=True) 
 plt.show()  ```
 
+```
 
-##output:
+## Output:
 
 satisfaction_level 	last_evaluation 	number_project 	average_montly_hours 	time_spend_company 	Work_accident 	left 	promotion_last_5years 	Departments 	salary
 0 	0.38 	0.53 	2 	157 	3 	0 	1 	0 	sales 	low
