@@ -8,11 +8,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+```1
+1.Import necessary libraries. 
+2.Use pd.read_csv() to load the dataset from Employee.csv into a DataFrame. 
+3.Use LabelEncoder to encode the salary column into numeric values. 
+4.Use train_test_split to divide the dataset into training and testing subsets, with 80% for training and 20% for testing (test_size=0.2). 
+5.Use plot_tree to visualize the trained decision tree.
+```
 ## Program:
 ```
 /*
@@ -57,7 +59,7 @@ plt.show()  ```
 ```
 
 ## Output:
-
+```
 satisfaction_level 	last_evaluation 	number_project 	average_montly_hours 	time_spend_company 	Work_accident 	left 	promotion_last_5years 	Departments 	salary
 0 	0.38 	0.53 	2 	157 	3 	0 	1 	0 	sales 	low
 1 	0.80 	0.86 	5 	262 	6 	0 	1 	0 	sales 	medium
@@ -120,7 +122,7 @@ C:\Users\mirus\anaconda3\Lib\site-packages\sklearn\base.py:493: UserWarning: X d
 
 array([0], dtype=int64)
 
-
+```
 
 ![Screenshot 2024-11-28 222721](https://github.com/user-attachments/assets/01ff0a0d-4c95-4e93-a8ab-4473cb1547de)
 
